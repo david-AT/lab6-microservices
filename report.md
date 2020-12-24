@@ -8,7 +8,7 @@ Report with screenshots describing what happens.
 
 * Execute `gradle :accounts:bootRun` and `gradle :web:bootRun` in two different terminals.
 
-![Accounts Service](iscreenShots/accounts_service_running.png)
+![Accounts Service](screenShots/accounts_service_running.png)
 
 ![Web Service](screenShots/web_service_running.png)
 
